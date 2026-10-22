@@ -26,14 +26,13 @@ concurrency:
 
 jobs:
   download-and-build:
-    name: Fetch JSON & Build UHD (${{ matrix.mkt }} / ${{ steps.year.outputs.YEAR }})
+    # 注意：job 的 name 里不能用 steps.*，这里用 inputs.year 或直接不写年份
+    name: Fetch JSON & Build UHD (${{ matrix.mkt }} / ${{ github.event.inputs.year || 'current' }})
     runs-on: ubuntu-latest
     timeout-minutes: 120
 
     strategy:
-      # 某个市场失败不影响其他市场继续
       fail-fast: false
-      # 串行执行，避免并发 push 冲突
       max-parallel: 1
       matrix:
         mkt:
@@ -90,7 +89,7 @@ jobs:
                   "bing-JSON-${{ matrix.mkt }}-${YEAR}" \
                   "bing-UHD-${{ matrix.mkt }}-${YEAR}" \
                   "bing-320-${{ matrix.mkt }}-${YEAR}" \
-                  "bing-UHD-${{ matrix.mkt }}-${YEAR}}.md" || true
+                  "bing-UHD-${{ matrix.mkt }}-${YEAR}.md" || true
 
           if git diff --cached --quiet; then
             echo "没有变更需要提交。"
@@ -99,7 +98,6 @@ jobs:
 
           git commit -m "chore: update bing UHD ${{ matrix.mkt }} ${YEAR} ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
 
-          # 带重试的 push，避免串行时因远端更新导致的 non-fast-forward
           for i in 1 2 3 4 5; do
             git push origin HEAD && break
             echo "push 失败，第 $i 次重试……"
