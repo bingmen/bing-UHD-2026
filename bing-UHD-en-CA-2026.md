@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-10-22 01:24:32 UTC
+> Last updated：2026-10-22 07:49:47 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | Still waters, vivid colours | Fall in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261023_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-CA9328142735_UHD.jpg) |
 | 2026-10-22 | Winging it over the river | Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images) | [![Winging it over the river](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261022_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg) |
 | 2026-10-21 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261021_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg) |
 | 2026-10-20 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261020_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-CA8133659672_UHD.jpg) |
