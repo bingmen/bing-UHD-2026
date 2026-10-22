@@ -1,0 +1,91 @@
+# bing-UHD-all-0.0.0.yml
+# github.com/shenjuexiao
+# 20261022
+
+# .github/workflows/bing-UHD-all.yml
+name: bing-UHD-all
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "年份 (year)"
+        required: true
+        default: "2023"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bing-UHD-all-${{ inputs.year }}
+  cancel-in-progress: false
+
+jobs:
+  download-and-build:
+    name: Fetch JSON & Build UHD (${{ matrix.mkt }} / ${{ inputs.year }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    strategy:
+      fail-fast: false          # 某个市场失败不影响其他市场继续
+      max-parallel: 1           # 串行执行，避免并发 push 冲突
+      matrix:
+        mkt:
+          - de-DE
+          - en-CA
+          - en-GB
+          - en-IN
+          - en-US
+          - fr-FR
+          - it-IT
+          - ja-JP
+          - zh-CN
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run fetch & download script
+        run: |
+          python bing-UHD-all.py \
+            --mkt "${{ matrix.mkt }}" \
+            --year "${{ inputs.year }}"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "bing-JSON-${{ matrix.mkt }}-${{ inputs.year }}.json" \
+                  "bing-JSON-${{ matrix.mkt }}-${{ inputs.year }}" \
+                  "bing-UHD-${{ matrix.mkt }}-${{ inputs.year }}" \
+                  "bing-320-${{ matrix.mkt }}-${{ inputs.year }}" \
+                  "bing-UHD-${{ matrix.mkt }}-${{ inputs.year }}.md" || true
+
+          if git diff --cached --quiet; then
+            echo "没有变更需要提交。"
+            exit 0
+          fi
+
+          git commit -m "chore: update bing UHD ${{ matrix.mkt }} ${{ inputs.year }} ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
+
+          # 带重试的 push，避免串行时因远端更新导致的 non-fast-forward
+          for i in 1 2 3 4 5; do
+            git push origin HEAD && break
+            echo "push 失败，第 $i 次重试……"
+            git pull --rebase origin HEAD || true
+            sleep 5
+          done
