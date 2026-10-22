@@ -11,7 +11,7 @@ on:
       year:
         description: "年份 (year)"
         required: true
-        default: "2023"
+        default: "2026"
         type: string
 
 permissions:
