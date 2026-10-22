@@ -9,24 +9,24 @@ on:
   workflow_dispatch:
     inputs:
       year:
-        description: "年份 (year)，留空则使用当前年份"
+        description: "年份 (year)，留空默认当前年份"
         required: false
         default: ""
         type: string
   schedule:
-    # 每天 0 点 UTC 自动运行
+    # 每天 0 点（UTC）自动运行
     - cron: "0 0 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: bing-UHD-all-${{ inputs.year || 'auto' }}
+  group: bing-UHD-all-${{ github.event.inputs.year || 'current' }}
   cancel-in-progress: false
 
 jobs:
   download-and-build:
-    name: Fetch JSON & Build UHD (${{ matrix.mkt }} / ${{ steps.year.outputs.year }})
+    name: Fetch JSON & Build UHD (${{ matrix.mkt }} / ${{ steps.year.outputs.YEAR }})
     runs-on: ubuntu-latest
     timeout-minutes: 120
 
@@ -53,15 +53,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Resolve year
-        id: year
-        run: |
-          YEAR="${{ inputs.year }}"
-          if [ -z "$YEAR" ]; then
-            YEAR="$(date -u +%Y)"
-          fi
-          echo "year=$YEAR" >> "$GITHUB_OUTPUT"
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -72,29 +63,41 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Resolve year
+        id: year
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          if [ -z "$YEAR" ]; then
+            YEAR="$(date -u +%Y)"
+          fi
+          echo "YEAR=$YEAR" >> "$GITHUB_OUTPUT"
+          echo "使用年份: $YEAR"
+
       - name: Run fetch & download script
         run: |
           python bing-UHD-all.py \
             --mkt "${{ matrix.mkt }}" \
-            --year "${{ steps.year.outputs.year }}"
+            --year "${{ steps.year.outputs.YEAR }}"
 
       - name: Commit and push changes
         run: |
+          YEAR="${{ steps.year.outputs.YEAR }}"
+
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add "bing-JSON-${{ matrix.mkt }}-${{ steps.year.outputs.year }}.json" \
-                  "bing-JSON-${{ matrix.mkt }}-${{ steps.year.outputs.year }}" \
-                  "bing-UHD-${{ matrix.mkt }}-${{ steps.year.outputs.year }}" \
-                  "bing-320-${{ matrix.mkt }}-${{ steps.year.outputs.year }}" \
-                  "bing-UHD-${{ matrix.mkt }}-${{ steps.year.outputs.year }}.md" || true
+          git add "bing-JSON-${{ matrix.mkt }}-${YEAR}.json" \
+                  "bing-JSON-${{ matrix.mkt }}-${YEAR}" \
+                  "bing-UHD-${{ matrix.mkt }}-${YEAR}" \
+                  "bing-320-${{ matrix.mkt }}-${YEAR}" \
+                  "bing-UHD-${{ matrix.mkt }}-${YEAR}}.md" || true
 
           if git diff --cached --quiet; then
             echo "没有变更需要提交。"
             exit 0
           fi
 
-          git commit -m "chore: update bing UHD ${{ matrix.mkt }} ${{ steps.year.outputs.year }} ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
+          git commit -m "chore: update bing UHD ${{ matrix.mkt }} ${YEAR} ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
 
           # 带重试的 push，避免串行时因远端更新导致的 non-fast-forward
           for i in 1 2 3 4 5; do
