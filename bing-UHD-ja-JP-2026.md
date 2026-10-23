@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-10-22 08:35:32 UTC
+> 最終更新：2026-10-23 03:23:15 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | 今日は霜降 | 蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images) | [![今日は霜降](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261023_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg) |
 | 2026-10-22 | 紅葉に彩られた東屋 | 内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images) | [![紅葉に彩られた東屋](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261022_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg) |
 | 2026-10-21 | ライトアップされたアーチ橋 | グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images) | [![ライトアップされたアーチ橋](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261021_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg) |
 | 2026-10-20 | 木の枝にぶら下がるナマケモノ | 木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures) | [![木の枝にぶら下がるナマケモノ](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261020_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg) |
