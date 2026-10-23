@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-10-22 08:34:15 UTC
+> Ultimo aggiornamento：2026-10-23 03:22:00 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | La vita nel branco | Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images) | [![La vita nel branco](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261023_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_UHD.jpg) |
 | 2026-10-22 | I colori di Naejangsan | Autunno nel Parco nazionale di Naejangsan, Corea del Sud (© Twenty47studio/Getty Images) | [![I colori di Naejangsan](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261022_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_UHD.jpg) |
 | 2026-10-21 | Un ponte appena nato | Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images) | [![Un ponte appena nato](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261021_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg) |
 | 2026-10-20 | La lentezza come strategia | Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![La lentezza come strategia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261020_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg) |
