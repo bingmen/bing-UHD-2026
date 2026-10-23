@@ -1,4 +1,4 @@
-# Bing 每日壁纸 - UHD - 2026
+# Bing 每日壁纸 - UHD
 
 ## 🚀 项目
 
@@ -10,15 +10,15 @@
 
 ## 📍 地区
 
-- de-DE：德语（德国）
-- en-CA：英语（加拿大）
-- en-GB：英语（英国）
-- en-IN：英语（印度）
-- en-US：英语（美国）
-- fr-FR：法语（法国）
-- it-IT：意大利语（意大利）
-- ja-JP：日语（日本）
-- zh-CN：简体中文（中国）
+- de-DE：德语（德国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-de-DE-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-de-DE-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-de-DE-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-de-DE-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-de-DE-2022.html) 🔹
+- en-CA：英语（加拿大） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-CA-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-CA-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-CA-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-CA-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-CA-2022.html) 🔹
+- en-GB：英语（英国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-GB-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-GB-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-GB-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-GB-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-GB-2022.html) 🔹
+- en-IN：英语（印度） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-IN-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-IN-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-IN-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-IN-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-IN-2022.html) 🔹
+- en-US：英语（美国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-US-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-US-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-US-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-US-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-US-2022.html) 🔹
+- fr-FR：法语（法国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-fr-FR-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-fr-FR-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-fr-FR-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-fr-FR-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-fr-FR-2022.html) 🔹
+- it-IT：意大利语（意大利） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-it-IT-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-it-IT-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-it-IT-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-it-IT-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-it-IT-2022.html) 🔹
+- ja-JP：日语（日本） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-ja-JP-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-ja-JP-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-ja-JP-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-ja-JP-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-ja-JP-2022.html) 🔹
+- zh-CN：简体中文（中国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-zh-CN-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-zh-CN-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-zh-CN-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-zh-CN-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-zh-CN-2022.html) 🔹
 
 ## 🗂️ 归档
 
