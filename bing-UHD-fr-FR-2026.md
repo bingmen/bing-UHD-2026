@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-10-22 08:33:06 UTC
+> Dernière mise à jour：2026-10-23 03:13:26 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | Là où naissent les bulles | Vignobles à Verzenay, montagne de Reims, Champagne (© Philippe TURPIN/Getty Images) | [![Là où naissent les bulles](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261023_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg) |
 | 2026-10-22 | Eaux paisibles, teintes flamboyantes | Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images) | [![Eaux paisibles, teintes flamboyantes](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261022_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg) |
 | 2026-10-21 | Vol au-dessus de la rivière | Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images) | [![Vol au-dessus de la rivière](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261021_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg) |
 | 2026-10-20 | La vie au ralenti | Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![La vie au ralenti](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261020_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg) |
