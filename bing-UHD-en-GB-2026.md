@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-10-22 08:29:06 UTC
+> Last updated：2026-10-23 03:08:12 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261023_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_UHD.jpg) |
 | 2026-10-22 | Still waters, vivid colours | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261022_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_UHD.jpg) |
 | 2026-10-21 | Winging it over the river | Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images) | [![Winging it over the river](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261021_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_UHD.jpg) |
 | 2026-10-20 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261020_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg) |
