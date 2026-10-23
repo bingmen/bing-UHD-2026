@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-10-22 08:26:14 UTC
+> Zuletzt aktualisiert：2026-10-23 03:05:47 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-10-23 | Partner in freier Wildbahn | Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images) | [![Partner in freier Wildbahn](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261023_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg) |
 | 2026-10-22 | Stille Wasser, leuchtende Farben | Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images) | [![Stille Wasser, leuchtende Farben](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261022_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg) |
 | 2026-10-21 | Über den Fluss fliegen | Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images) | [![Über den Fluss fliegen](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261021_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg) |
 | 2026-10-20 | Immer mit der Ruhe | Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Immer mit der Ruhe](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261020_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg) |
