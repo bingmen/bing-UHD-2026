@@ -1,0 +1,31 @@
+# 20261023
+# _config.yml
+exclude:
+  - bing-320-de-DE-2026/
+  - bing-320-en-CA-2026/
+  - bing-320-en-GB-2026/
+  - bing-320-en-IN-2026/
+  - bing-320-en-US-2026/
+  - bing-320-fr-FR-2026/
+  - bing-320-it-IT-2026/
+  - bing-320-ja-JP-2026/
+  - bing-320-zh-CN-2026/
+  - bing-JSON-de-DE-2026/
+  - bing-JSON-en-CA-2026/
+  - bing-JSON-en-GB-2026/
+  - bing-JSON-en-IN-2026/
+  - bing-JSON-en-US-2026/
+  - bing-JSON-fr-FR-2026/
+  - bing-JSON-it-IT-2026/
+  - bing-JSON-ja-JP-2026/
+  - bing-JSON-zh-CN-2026/
+  - bing-UHD-de-DE-2026/
+  - bing-UHD-en-CA-2026/
+  - bing-UHD-en-GB-2026/
+  - bing-UHD-en-IN-2026/
+  - bing-UHD-en-US-2026/
+  - bing-UHD-fr-FR-2026/
+  - bing-UHD-it-IT-2026/
+  - bing-UHD-ja-JP-2026/
+  - bing-UHD-zh-CN-2026/
+  
