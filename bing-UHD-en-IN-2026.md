@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-10-23 03:09:40 UTC
+> Last updated：2026-10-24 03:06:03 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261024_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg) |
 | 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261023_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg) |
 | 2026-10-22 | Still waters, vivid colours | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261022_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg) |
 | 2026-10-21 | Winging it over the river | Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images) | [![Winging it over the river](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261021_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg) |
