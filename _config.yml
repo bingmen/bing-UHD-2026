@@ -1,5 +1,26 @@
+# bing-UHD-year_config.yml
+# github.com/shenjuexiao
 # 20261023
+
 # _config.yml
+title: Bing 每日壁纸 - UHD - 2026
+description: 👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  - bing-UHD-de-DE-2026.md
+  - bing-UHD-en-CA-2026.md
+  - bing-UHD-en-GB-2026.md
+  - bing-UHD-en-IN-2026.md
+  - bing-UHD-en-US-2026.md
+  - bing-UHD-fr-FR-2026.md
+  - bing-UHD-it-IT-2026.md
+  - bing-UHD-ja-JP-2026.md
+  - bing-UHD-zh-CN-2026.md
+
+# 排除的文件和目录（不参与 Jekyll 构建）
 exclude:
   - bing-320-de-DE-2026/
   - bing-320-en-CA-2026/
@@ -28,4 +49,3 @@ exclude:
   - bing-UHD-it-IT-2026/
   - bing-UHD-ja-JP-2026/
   - bing-UHD-zh-CN-2026/
-  
