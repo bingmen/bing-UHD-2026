@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-10-24 03:10:36 UTC
+> Ultimo aggiornamento：2026-10-25 03:04:00 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-25 | Cinema, piazze e pasta | Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images) | [![Cinema, piazze e pasta](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261025_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg) |
 | 2026-10-24 | Una cattedrale di libri | Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock) | [![Una cattedrale di libri](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261024_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg) |
 | 2026-10-23 | La vita nel branco | Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images) | [![La vita nel branco](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261023_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_UHD.jpg) |
 | 2026-10-22 | I colori di Naejangsan | Autunno nel Parco nazionale di Naejangsan, Corea del Sud (© Twenty47studio/Getty Images) | [![I colori di Naejangsan](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261022_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_UHD.jpg) |
