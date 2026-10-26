@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-10-25 02:59:54 UTC
+> Last updated：2026-10-26 02:58:14 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261026_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg) |
 | 2026-10-25 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261025_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg) |
 | 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261024_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg) |
 | 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261023_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg) |
