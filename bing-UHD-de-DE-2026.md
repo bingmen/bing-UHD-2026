@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-10-26 02:54:09 UTC
+> Zuletzt aktualisiert：2026-10-27 03:28:13 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-10-27 | Goldener Spiegel der Natur | Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images) | [![Goldener Spiegel der Natur](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261027_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg) |
 | 2026-10-26 | Der Klang des Herbstes | Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images) | [![Der Klang des Herbstes](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261026_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg) |
 | 2026-10-25 | Wo Gipfel auf Stille treffen | Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images) | [![Wo Gipfel auf Stille treffen](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261025_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg) |
 | 2026-10-24 | Architektur des Wissens | Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images) | [![Architektur des Wissens](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261024_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg) |
