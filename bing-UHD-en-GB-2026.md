@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-10-27 03:31:25 UTC
+> Last updated：2026-10-28 03:46:36 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261029_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783_UHD.jpg) |
 | 2026-10-28 | Nature's golden mirror | A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261028_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg) |
 | 2026-10-27 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261027_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_UHD.jpg) |
 | 2026-10-26 | The clock strikes back | The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images) | [![The clock strikes back](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261026_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg) |
