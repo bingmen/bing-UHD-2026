@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-10-27 03:29:45 UTC
+> Last updated：2026-10-28 03:45:19 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-28 | Nature's golden mirror | A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261028_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg) |
 | 2026-10-27 | Nature's fall soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's fall soundtrack](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261027_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg) |
 | 2026-10-26 | 'Peak' into Colorado | Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images) | [!['Peak' into Colorado](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261026_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg) |
 | 2026-10-25 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261025_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg) |
