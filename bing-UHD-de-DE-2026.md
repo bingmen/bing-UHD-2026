@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-10-28 03:43:45 UTC
+> Zuletzt aktualisiert：2026-10-29 04:04:09 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | Wo Nebel auf Jahrtausende trifft | Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images) | [![Wo Nebel auf Jahrtausende trifft](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261029_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_UHD.jpg) |
 | 2026-10-28 | Wo Geschichte Wache hält | Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy) | [![Wo Geschichte Wache hält](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261028_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_UHD.jpg) |
 | 2026-10-27 | Goldener Spiegel der Natur | Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images) | [![Goldener Spiegel der Natur](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261027_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg) |
 | 2026-10-26 | Der Klang des Herbstes | Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images) | [![Der Klang des Herbstes](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261026_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg) |
