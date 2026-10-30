@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-10-29 04:09:43 UTC
+> Last updated：2026-10-30 04:10:54 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261030_320_en-US.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg) |
 | 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261029_320_en-US.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg) |
 | 2026-10-28 | Nature's golden mirror | A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261028_320_en-US.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg) |
 | 2026-10-27 | Hanging in there | Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library) | [![Hanging in there](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261027_320_en-US.jpg)](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg) |
