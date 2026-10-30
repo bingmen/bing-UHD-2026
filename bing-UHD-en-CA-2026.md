@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-10-29 04:05:43 UTC
+> Last updated：2026-10-30 04:06:41 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-31 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261031_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_UHD.jpg) |
 | 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261030_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656_UHD.jpg) |
 | 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261029_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952_UHD.jpg) |
 | 2026-10-28 | Nature's golden mirror | A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261028_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg) |
