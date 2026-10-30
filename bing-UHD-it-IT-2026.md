@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-10-29 04:12:39 UTC
+> Ultimo aggiornamento：2026-10-30 04:14:05 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-30 | È ora di spiccare il volo | Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![È ora di spiccare il volo](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261030_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_UHD.jpg) |
 | 2026-10-29 | Una passeggiata nella preistoria | Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images) | [![Una passeggiata nella preistoria](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261029_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_IT-IT5634082753_UHD.jpg) |
 | 2026-10-28 | Secoli sopra la Boemia | Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy) | [![Secoli sopra la Boemia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261028_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_UHD.jpg) |
 | 2026-10-27 | Riflessi dorati | Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images) | [![Riflessi dorati](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261027_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg) |
