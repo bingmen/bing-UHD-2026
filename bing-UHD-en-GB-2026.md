@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-10-30 04:07:55 UTC
+> Last updated：2026-10-31 03:52:39 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-01 | Ghosts of empires past | St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261101_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg) |
 | 2026-10-31 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261031_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848_UHD.jpg) |
 | 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261030_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-GB5895980350_UHD.jpg) |
 | 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261029_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783_UHD.jpg) |
