@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-10-31 03:49:56 UTC
+> Zuletzt aktualisiert：2026-11-01 03:58:42 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-01 | Wälder im Nebel | Schwarzwald, Baden-Württemberg (© Britus/Getty Images) | [![Wälder im Nebel](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261101_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg) |
 | 2026-10-31 | Der Geist vergangener Kaiserreiche | Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images) | [![Der Geist vergangener Kaiserreiche](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261031_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg) |
 | 2026-10-30 | Zeit für Höhenflüge | Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Zeit für Höhenflüge](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261030_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg) |
 | 2026-10-29 | Wo Nebel auf Jahrtausende trifft | Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images) | [![Wo Nebel auf Jahrtausende trifft](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261029_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_UHD.jpg) |
