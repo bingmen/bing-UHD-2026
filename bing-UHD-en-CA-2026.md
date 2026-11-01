@@ -1,9 +1,11 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-10-31 03:51:02 UTC
+> Last updated：2026-11-01 04:00:17 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-02 | Mist among the trees | Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images) | [![Mist among the trees](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261102_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_UHD.jpg) |
+| 2026-11-01 | Ghosts of empires past | St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261101_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051_UHD.jpg) |
 | 2026-10-31 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261031_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_UHD.jpg) |
 | 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261030_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656_UHD.jpg) |
 | 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261029_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952_UHD.jpg) |
