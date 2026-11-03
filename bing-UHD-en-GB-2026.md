@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-02 04:05:03 UTC
+> Last updated：2026-11-03 05:05:36 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261104_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg) |
 | 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261103_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg) |
 | 2026-11-02 | Mist among the trees | Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images) | [![Mist among the trees](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261102_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_UHD.jpg) |
 | 2026-11-01 | Ghosts of empires past | St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261101_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg) |
