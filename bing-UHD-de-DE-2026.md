@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-02 04:01:39 UTC
+> Zuletzt aktualisiert：2026-11-03 05:03:10 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-03 | Stille Gipfelwelten | Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images) | [![Stille Gipfelwelten](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261103_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg) |
 | 2026-11-02 | Eine Zukunft, geprägt vom Eis | Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock) | [![Eine Zukunft, geprägt vom Eis](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261102_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg) |
 | 2026-11-01 | Wälder im Nebel | Schwarzwald, Baden-Württemberg (© Britus/Getty Images) | [![Wälder im Nebel](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261101_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg) |
 | 2026-10-31 | Der Geist vergangener Kaiserreiche | Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images) | [![Der Geist vergangener Kaiserreiche](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261031_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg) |
