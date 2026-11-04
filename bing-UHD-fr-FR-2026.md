@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-03 05:18:41 UTC
+> Dernière mise à jour：2026-11-04 04:43:45 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-04 | Glisser à travers une peinture | Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images) | [![Glisser à travers une peinture](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261104_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg) |
 | 2026-11-03 | La paix parmi les sommets | Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images) | [![La paix parmi les sommets](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261103_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg) |
 | 2026-11-02 | Un avenir écrit dans la glace | Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![Un avenir écrit dans la glace](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261102_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg) |
 | 2026-11-01 | Manteau de brume sur la forêt | Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images) | [![Manteau de brume sur la forêt](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261101_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg) |
