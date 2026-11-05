@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-04 04:45:01 UTC
+> Ultimo aggiornamento：2026-11-05 05:00:38 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-05 | Un passo alla volta | Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images) | [![Un passo alla volta](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261105_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg) |
 | 2026-11-04 | In kayak tra i colori d’autunno | Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images) | [![In kayak tra i colori d’autunno](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261104_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_UHD.jpg) |
 | 2026-11-03 | Pace in cima al mondo | Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images) | [![Pace in cima al mondo](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261103_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg) |
 | 2026-11-02 | Un futuro scolpito nel ghiaccio | Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![Un futuro scolpito nel ghiaccio](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261102_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg) |
