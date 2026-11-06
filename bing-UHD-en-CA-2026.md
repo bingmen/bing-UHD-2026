@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-05 04:52:34 UTC
+> Last updated：2026-11-06 04:52:19 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-06 | One step closer to the summit | Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![One step closer to the summit](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261106_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg) |
 | 2026-11-05 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261105_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_UHD.jpg) |
 | 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261104_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_UHD.jpg) |
 | 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261103_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-CA5688581864_UHD.jpg) |
