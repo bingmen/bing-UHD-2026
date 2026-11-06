@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-05 04:53:50 UTC
+> Last updated：2026-11-06 04:54:10 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-07 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261107_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_UHD.jpg) |
 | 2026-11-06 | Remember, remember | Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images) | [![Remember, remember](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261106_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg) |
 | 2026-11-05 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261105_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_UHD.jpg) |
 | 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261104_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg) |
