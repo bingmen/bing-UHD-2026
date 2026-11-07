@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-06 04:51:04 UTC
+> Zuletzt aktualisiert：2026-11-07 04:19:49 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-07 | Der zurückgekehrte Riese | Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock) | [![Der zurückgekehrte Riese](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261107_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg) |
 | 2026-11-06 | Ein grüner Tunnel durch Maui | Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![Ein grüner Tunnel durch Maui](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261106_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg) |
 | 2026-11-05 | Ein Schritt näher am Gipfel | Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![Ein Schritt näher am Gipfel](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261105_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg) |
 | 2026-11-04 | Paddeln durch ein Gemälde | Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddeln durch ein Gemälde](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261104_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg) |
