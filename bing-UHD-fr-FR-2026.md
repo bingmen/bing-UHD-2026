@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-06 04:58:40 UTC
+> Dernière mise à jour：2026-11-07 04:27:18 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-07 | Un géant de retour | Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock) | [![Un géant de retour](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261107_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg) |
 | 2026-11-06 | Toit de verdure à travers Maui | Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images) | [![Toit de verdure à travers Maui](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261106_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg) |
 | 2026-11-05 | Un pas de plus vers le sommet | Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images) | [![Un pas de plus vers le sommet](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261105_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg) |
 | 2026-11-04 | Glisser à travers une peinture | Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images) | [![Glisser à travers une peinture](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261104_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg) |
