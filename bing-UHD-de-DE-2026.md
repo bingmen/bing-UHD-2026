@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-09 04:19:51 UTC
+> Zuletzt aktualisiert：2026-11-10 05:45:09 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | Die Lizenz zum Chillen | Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Die Lizenz zum Chillen](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261110_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg) |
 | 2026-11-09 | Die Nacht, die Deutschland veränderte | Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images) | [![Die Nacht, die Deutschland veränderte](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261109_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg) |
 | 2026-11-08 | Ein strahlendes Fest | Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images) | [![Ein strahlendes Fest](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261108_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_UHD.jpg) |
 | 2026-11-07 | Der zurückgekehrte Riese | Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock) | [![Der zurückgekehrte Riese](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261107_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg) |
