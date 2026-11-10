@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-09 04:30:40 UTC
+> 最終更新：2026-11-10 05:55:17 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | 楽園でひと休み | ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images) | [![楽園でひと休み](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261110_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg) |
 | 2026-11-09 | 芸術がリズムを刻む街 | セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images) | [![芸術がリズムを刻む街](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261109_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg) |
 | 2026-11-08 | 光に包まれる祝祭 | ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images) | [![光に包まれる祝祭](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261108_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg) |
 | 2026-11-07 | よみがえった草原の巨人 | セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock) | [![よみがえった草原の巨人](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261107_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg) |
