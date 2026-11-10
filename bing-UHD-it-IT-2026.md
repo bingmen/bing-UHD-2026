@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-09 04:29:04 UTC
+> Ultimo aggiornamento：2026-11-10 05:53:43 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | Missione: relax | Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Missione: relax](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261110_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg) |
 | 2026-11-09 | Dove l’arte trova il suo ritmo | Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images) | [![Dove l’arte trova il suo ritmo](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261109_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg) |
 | 2026-11-08 | Una festa che illumina | Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![Una festa che illumina](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261108_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_UHD.jpg) |
 | 2026-11-07 | Il ritorno del gigante | Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![Il ritorno del gigante](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261107_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_UHD.jpg) |
