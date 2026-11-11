@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-10 05:56:52 UTC
+> 最后更新：2026-11-11 04:36:36 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | 奇妙纷呈的森林 | 大西洋森林，巴西 (© FG Trade/Getty Images) | [![奇妙纷呈的森林](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261111_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
 | 2026-11-10 | 惬意放松，尽享海岛时光 | 玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images) | [![惬意放松，尽享海岛时光](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261110_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
 | 2026-11-09 | 艺术与韵律交汇之地 | 特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images) | [![艺术与韵律交汇之地](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261109_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
 | 2026-11-08 | 光芒四射的节日 | 排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images) | [![光芒四射的节日](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261108_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
