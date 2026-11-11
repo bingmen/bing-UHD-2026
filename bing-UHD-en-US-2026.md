@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-11-10 05:50:41 UTC
+> Last updated：2026-11-11 04:30:18 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261111_320_en-US.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg) |
 | 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261110_320_en-US.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261109_320_en-US.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg) |
 | 2026-11-08 | The giant that came back | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock) | [![The giant that came back](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261108_320_en-US.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg) |
