@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-10 05:47:45 UTC
+> Last updated：2026-11-11 04:26:44 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-12 | We will remember them | A field of poppies (© lloyd-horgan/Getty Images) | [![We will remember them](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261112_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_UHD.jpg) |
 | 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261111_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_UHD.jpg) |
 | 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261110_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-GB-2026/20261109_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_UHD.jpg) |
