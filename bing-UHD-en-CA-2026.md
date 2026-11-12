@@ -1,9 +1,11 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-11 04:25:07 UTC
+> Last updated：2026-11-12 05:31:59 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | Architecture without an architect | North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architecture without an architect](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261113_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-CA6553146914_UHD.jpg) |
+| 2026-11-12 | A forest full of wonder | The Atlantic Forest, Brazil (© FG Trade/Getty Images) | [![A forest full of wonder](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261112_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg) |
 | 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261111_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg) |
 | 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261110_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261109_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg) |
