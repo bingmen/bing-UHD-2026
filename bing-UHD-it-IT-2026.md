@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-11 04:33:40 UTC
+> Ultimo aggiornamento：2026-11-12 05:39:27 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-12 | Architettura senza architetto | North Window, Parco Nazionale degli Arches, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architettura senza architetto](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261112_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_IT-IT7586548726_UHD.jpg) |
 | 2026-11-11 | Una foresta piena di meraviglie | Foresta Atlantica, Brasile (© FG Trade/Getty Images) | [![Una foresta piena di meraviglie](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261111_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg) |
 | 2026-11-10 | Missione: relax | Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Missione: relax](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261110_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg) |
 | 2026-11-09 | Dove l’arte trova il suo ritmo | Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images) | [![Dove l’arte trova il suo ritmo](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261109_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg) |
