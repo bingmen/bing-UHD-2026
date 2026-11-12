@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-11 04:23:28 UTC
+> Zuletzt aktualisiert：2026-11-12 05:30:42 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-12 | Architektur ohne Architekten | North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architektur ohne Architekten](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261112_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg) |
 | 2026-11-11 | Ein Wald voller Wunder | Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images) | [![Ein Wald voller Wunder](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261111_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg) |
 | 2026-11-10 | Die Lizenz zum Chillen | Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Die Lizenz zum Chillen](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261110_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg) |
 | 2026-11-09 | Die Nacht, die Deutschland veränderte | Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images) | [![Die Nacht, die Deutschland veränderte](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261109_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg) |
