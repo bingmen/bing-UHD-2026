@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-13 04:58:27 UTC
+> 最終更新：2026-11-14 04:53:01 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-14 | 上へ上へと伸びる街 | ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images) | [![上へ上へと伸びる街](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261114_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_UHD.jpg) |
 | 2026-11-13 | 氷の下の神秘 | アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images) | [![氷の下の神秘](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261113_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_UHD.jpg) |
 | 2026-11-12 | 自然が生んだ建築美 | ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images) | [![自然が生んだ建築美](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261112_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_UHD.jpg) |
 | 2026-11-11 | 驚きに満ちた森 | 大西洋岸森林、ブラジル (© FG Trade/Getty Images) | [![驚きに満ちた森](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-ja-JP-2026/20261111_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg) |
